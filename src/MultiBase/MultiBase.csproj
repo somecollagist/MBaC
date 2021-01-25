@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>MultiBase</AssemblyName>
+    <RootNamespace>MultiBase</RootNamespace>
+    <Description>Emulated computer running in binary and ternary.</Description>
+    <Copyright>Prole Industries</Copyright>
+    <PackageLicenseExpression>WTFPL</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="jLib">
+      <HintPath>resources\jLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

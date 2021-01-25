@@ -1,0 +1,15 @@
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\TernaryComputer.csprojAssemblyReference.cache
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\TernaryComputer.AssemblyInfoInputs.cache
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\TernaryComputer.AssemblyInfo.cs
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\TernaryComputer.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\TernaryComputer.genruntimeconfig.cache
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\jLib.dll
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\TernaryComputer.csproj.CopyComplete
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\MultiBase.exe
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\MultiBase.deps.json
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\MultiBase.runtimeconfig.json
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\MultiBase.runtimeconfig.dev.json
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\MultiBase.dll
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\bin\Debug\netcoreapp3.1\MultiBase.pdb
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\MultiBase.dll
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\TernaryComputer\TernaryComputer\obj\Debug\netcoreapp3.1\MultiBase.pdb

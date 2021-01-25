@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiBase": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

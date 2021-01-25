@@ -1,0 +1,14 @@
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\MultiBase.exe
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\MultiBase.deps.json
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\MultiBase.runtimeconfig.json
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\MultiBase.runtimeconfig.dev.json
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\MultiBase.dll
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\MultiBase.pdb
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\bin\Debug\netcoreapp3.1\jLib.dll
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.AssemblyInfoInputs.cache
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.AssemblyInfo.cs
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.csproj.CopyComplete
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.dll
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.pdb
+C:\Users\jacks\OneDrive\Documents\Programming\CSharp\MultiBase\MultiBase\obj\Debug\netcoreapp3.1\MultiBase.genruntimeconfig.cache
