@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CgfcaDE/W59m0afmut6hjOrGuzRHahf/VlAPDDrnn1/EG5gwvuydh98Cb19GCT7nA7Ip8LH28AMUFcKRbqv76Q==",
+  "dgSpecHash": "KP65Pw9AMnV+AbIE7ScoTDoEGiq/kvtAc6tQb8/w7AnspExs8ABadn58fOP/PTY3jjkQQg1DcrTL2p0Z6A4Nmw==",
   "success": true,
-  "projectFilePath": "N:\\src\\MultiBase\\MultiBase.csproj",
+  "projectFilePath": "N:\\MBaC\\src\\MultiBase\\MultiBase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

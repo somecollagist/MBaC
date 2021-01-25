@@ -23,9 +23,6 @@ namespace MultiBase
 
     public interface IGates
     {
-        int ConvertToInt(Data[] data);
-        Data[] ConvertToData(int num);
-
         public Data NOT(Data x);
 
         public Data OR(Data x, Data y);
@@ -43,19 +40,11 @@ namespace MultiBase
         public Data Div(Data x, Data y);
     }
 
-    public class Registry
+    public interface IRegister
     {
-        public int Digits { get; set; }
+        public Data[] Digits { get; set; }
         public Type DataType { get; set; }
-    }
 
-    public interface IRegistry
-    {
-        public Registry[][] Registers {get; set;}
-    }
-
-    public interface IOS : IFunctions, IRegistry
-    {
-
+        public void INC();
     }
 }

@@ -44,30 +44,6 @@ namespace MultiBase
             {
             }
 
-            public int ConvertToInt(Data[] data)
-            {
-                int ret = 0;
-                int len = data.Length - 1;
-
-                foreach (Trit trit in data)
-                {
-                    ret += (trit.Value) * (int)(Math.Pow(3, len));
-                    len--;
-                }
-                return ret;
-            }
-            public Data[] ConvertToData(int num)
-            {
-                if (num == 0) return new Trit[] { new Trit(0) };
-
-                string ternary = XMath.Functions.DecimalToBase(num, 3);
-                int len = ternary.Length;
-                Trit[] trits = new Trit[len];
-
-                for (int x = 0; x < len; x++) trits[x] = new Trit(Convert.ToInt16(ternary[x].ToString()));
-                return trits;
-            }
-
             public Data NOT(Data x)
             {
                 return x.Value switch
@@ -117,9 +93,15 @@ namespace MultiBase
             }
         }
 
-        public class OS : IOS
+        public class Register : IRegister
         {
+            public Data[] Digits { get; set; }
+            public Type DataType { get; set; } = typeof(Trit);
 
+            public void INC()
+            {
+
+            }
         }
     }
 }

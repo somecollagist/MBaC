@@ -36,30 +36,6 @@ namespace MultiBase
             {
             }
 
-            public int ConvertToInt(Data[] data)
-            {
-                int ret = 0;
-                int len = data.Length - 1;
-
-                foreach (Bit bit in data)
-                {
-                    ret += (bit.Value) * (int)(Math.Pow(2, len));
-                    len--;
-                }
-                return ret;
-            }
-            public Data[] ConvertToData(int num)
-            {
-                if (num == 0) return new Bit[] { new Bit(0) };
-
-                string binary = XMath.Functions.DecimalToBase(num, 2);
-                int len = binary.Length;
-                Bit[] bits = new Bit[len];
-
-                for (int x = 0; x < len; x++) bits[x] = new Bit(Convert.ToInt16(binary[x].ToString()));
-                return bits;
-            }
-
             public Data NOT(Data x)
             {
                 return x.Value switch

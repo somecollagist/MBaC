@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\src\\MultiBase\\MultiBase.csproj",
+      "projectUniqueName": "N:\\MBaC\\src\\MultiBase\\MultiBase.csproj",
       "projectName": "MultiBase",
-      "projectPath": "N:\\src\\MultiBase\\MultiBase.csproj",
+      "projectPath": "N:\\MBaC\\src\\MultiBase\\MultiBase.csproj",
       "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
-      "outputPath": "N:\\src\\MultiBase\\obj\\",
+      "outputPath": "N:\\MBaC\\src\\MultiBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
