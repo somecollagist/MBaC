@@ -1,4 +1,4 @@
-﻿ using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -30,7 +30,7 @@ namespace MultiBase
         /// <summary>
         /// Class of all binary gates in polish notation.
         /// </summary>
-        public class BinaryGates : IGates
+        public class BinaryGates
         {
             public BinaryGates()
             {

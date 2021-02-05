@@ -7,7 +7,7 @@
     <RootNamespace>MultiBase</RootNamespace>
     <Description>Emulated computer running in binary and ternary.</Description>
     <Copyright>Prole Industries</Copyright>
-    <PackageLicenseExpression>WTFPL</PackageLicenseExpression>
+    <PackageLicenseExpression>Open MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
