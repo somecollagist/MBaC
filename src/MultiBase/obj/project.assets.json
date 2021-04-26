@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MBac\\src\\MultiBase\\MultiBase.csproj",
+      "projectUniqueName": "C:\\Users\\jacks\\OneDrive\\Documents\\Programming\\HugeStuff\\MBaC\\src\\MultiBase\\MultiBase.csproj",
       "projectName": "MultiBase",
-      "projectPath": "E:\\MBac\\src\\MultiBase\\MultiBase.csproj",
+      "projectPath": "C:\\Users\\jacks\\OneDrive\\Documents\\Programming\\HugeStuff\\MBaC\\src\\MultiBase\\MultiBase.csproj",
       "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
-      "outputPath": "E:\\MBac\\src\\MultiBase\\obj\\",
+      "outputPath": "C:\\Users\\jacks\\OneDrive\\Documents\\Programming\\HugeStuff\\MBaC\\src\\MultiBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
